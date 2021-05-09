@@ -8,7 +8,7 @@ import com.kkhindigyan.org.service.EmployeeService;
 import com.kkhindigyan.org.service.EmployeeServiceImpl;
 /**
  * @author Kishan Kumar
- *This is client program for Spring App
+ *This is client program for Spring Application
  */
 public class ClientTest {
 

@@ -6,7 +6,11 @@ import java.sql.SQLException;
 import org.springframework.jdbc.core.RowMapper;
 
 import com.kkhindigyan.org.model.Employee;
-
+/**
+ * 
+ * @author Kishan Kumar
+ *
+ */
 public class EmployeeRowMapper implements RowMapper<Employee> {
 
 	@Override

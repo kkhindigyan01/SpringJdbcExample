@@ -6,7 +6,11 @@ import org.springframework.jdbc.core.JdbcTemplate;
 
 import com.kkhindigyan.org.mapper.EmployeeRowMapper;
 import com.kkhindigyan.org.model.Employee;
-
+/**
+ * 
+ * @author Kishan Kumar
+ * This is DAO class
+ */
 public class EmployeeDaoImpl implements EmployeeDao {
 
 	private JdbcTemplate jdbcTemplate;

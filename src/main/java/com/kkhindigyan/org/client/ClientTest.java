@@ -6,7 +6,10 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 import com.kkhindigyan.org.model.Employee;
 import com.kkhindigyan.org.service.EmployeeService;
 import com.kkhindigyan.org.service.EmployeeServiceImpl;
-
+/**
+ * @author Kishan Kumar
+ *This is client program for Spring App
+ */
 public class ClientTest {
 
 	public static void main(String[] args) {

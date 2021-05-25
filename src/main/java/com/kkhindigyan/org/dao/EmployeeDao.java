@@ -3,7 +3,10 @@ package com.kkhindigyan.org.dao;
 import java.util.List;
 
 import com.kkhindigyan.org.model.Employee;
-
+/**
+ * @author KK HindiGyan
+ *This Employee DAO Interface
+ */
 public interface EmployeeDao {
 
 	public abstract void createEmployee(Employee employee);

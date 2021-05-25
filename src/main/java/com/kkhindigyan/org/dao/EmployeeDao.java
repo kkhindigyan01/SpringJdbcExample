@@ -5,7 +5,7 @@ import java.util.List;
 import com.kkhindigyan.org.model.Employee;
 /**
  * @author KK HindiGyan
- *This Employee DAO Interface
+ *This is Employee DAO Interface
  */
 public interface EmployeeDao {
 

@@ -1,5 +1,10 @@
 package com.kkhindigyan.org.model;
 
+/**
+ * This is employee model class
+ * @author KK HindiGyan
+ *
+ */
 public class Employee {
 
 	private Integer employeeId;
